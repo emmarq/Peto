@@ -27,13 +27,8 @@ let
       cmdline-tools-latest
       platform-tools
       emulator
-      platforms-android-31
-      platforms-android-33
-      ndk-23-1-7779620
-      cmake-3-22-1
-      build-tools-30-0-3
-      build-tools-31-0-0
-      build-tools-33-0-0
+      platforms-android-34
+      build-tools-34-0-0
     ] ++ android-image);
 
 in
